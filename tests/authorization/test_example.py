@@ -1,6 +1,6 @@
-def tests_example1():
+def test_example1():
     pass
 
 
-def tests_example2():
+def test_example2():
     pass
